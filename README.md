@@ -74,7 +74,7 @@ The algorithm is designed to handle standard 42 benchmarks with ease:
 
 Clone the repository and compile the project:
 
-git clone << [push_swap]https://github.com/MohsineDas04/push_swap.git >> 
+git clone << [push_swap](https://github.com/MohsineDas04/push_swap.git) >> 
 
 make
 
